@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   
+    background: rgb(252,176,69);
+    background: linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(234,53,53,1) 72%, rgba(131,58,180,1) 100%);
+}
+#header{
+    text-shadow: 5px 2px 3px crimson;
+    color: #7FFFD4;
+    font-size: 50px;
+}
+h1{
+    color: #7FFFD4;
+    text-shadow: 2px 0px 1px black;
+    text-align: center;
+    width: 100%;
+}
+h2{
+    font-size: 28px;
+    color: #003262;
+    text-shadow: 1px 0px 1px #2072AF;
+}
+.output{
+    color: #512888;
+    font-size: 22px;
+    background: rgb(230,160,61);
+    background: linear-gradient(90deg, rgba(230,160,61,1) 0%, rgba(224,86,86,1) 72%, rgba(155,94,195,1) 100%);
+}
